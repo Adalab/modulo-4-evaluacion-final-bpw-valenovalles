@@ -18,8 +18,8 @@ Se deben incluir los siguientes campos: id, nombre, categoría, descripción, in
 ## 🫶​**/products/skinType -- -- Filtrar productos por tipo de piel**
 
 Con este Endpoint puedes filtrar los productos por tipos de piel. Skin & Co necesita recomendar al usuario los mejores productos para su tipo de piel y por ello el filtro se ha hecho con esa columna de la base de datos.
-Puedes filtrar or estos tipos de piel: Todos, Seca, Normal, Mixta y Grasa.
-Ejemplo de la url: /products/todos
+Puedes filtrar por estos tipos de piel: Todos, Seca, Normal, Mixta y Grasa.
+Ejemplo de la url: /products/todos - /products/seca - /products/mixta - /products/grasa   
 
 ## ​✍️​**/products/id -- Actualizar un producto por su id**
 
